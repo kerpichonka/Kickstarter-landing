@@ -4,4 +4,4 @@
 
 Responsive markup layout made by using CSS Grid and Flexbox. Adaptation for mobile, tablet, laptop, and high-resolution screens. Stack of tech: BEM, HTML5, SASS/SCSS, JavaScript.
 
-[DEMO LINK](https://<your_account>.github.io/layout_miami/)
+[DEMO LINK](https://kerpichonka.github.io/layout_miami/)
